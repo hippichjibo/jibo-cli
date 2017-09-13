@@ -1,0 +1,16 @@
+{
+  "name":       "jibo",
+  "version":    "3.0.7",
+  "description": "",
+  "main":       "index.js",
+  "scripts": {
+    "test":     "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type":     "git",
+    "url":      "https://github.com/jiborobot/jibo"
+  },
+  "keywords":   [],
+  "license":    "SEE LICENSE IN LICENSE.txt",
+  "author":     "Jibo Inc. <devsupport@jibo.com>"
+}
